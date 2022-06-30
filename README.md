@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @developer_mainak.
-- 👀 I’m interested in developemnt web app.
+- 👀 I’m interested in developemnt (web & app).
 - 🌱 I’m currently learning django.
 - 💞️ I’m looking to collaborate on development field
 - 📫 You can visit my website https://mainak.devsoftt.in/
